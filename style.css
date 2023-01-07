@@ -8,7 +8,7 @@
 /* Header start */
 .web-header {
     text-align: right;
-    background-image: url("../images/banner/banner1.png");
+    background-image: url("./images/banner/banner1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
