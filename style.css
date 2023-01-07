@@ -8,7 +8,7 @@
 /* Header start */
 .web-header {
     text-align: right;
-    background-image: url(../images/banner/banner1.png);
+    background-image: url("../images/banner/banner1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -323,7 +323,7 @@
     width: 1140px;
     height: 300px;
     top: 2222.26px;
-    background: url('./images/gradient3.png'), url('./images/watch.png');
+    background: url('../images/'), url('./images/watch.png');
     justify-content: center;
     margin-left: 13.5%;
 }
