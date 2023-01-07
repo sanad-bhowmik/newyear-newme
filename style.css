@@ -54,7 +54,7 @@
 .banner {
     height: 100vh;
     width: 100%;
-    background-image: url('/images/banner/banner1.png');
+    background-image: url('./images/banner/banner1.png');
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     text-align: center;
@@ -323,7 +323,7 @@
     width: 1140px;
     height: 300px;
     top: 2222.26px;
-    background: url('/images/gradient1.png'), url('/images/watch.png');
+    background: url('./images/gradient3.png'), url('./images/watch.png');
     justify-content: center;
     margin-left: 13.5%;
 }
