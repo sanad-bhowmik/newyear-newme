@@ -1,0 +1,452 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
+}
+/* Header start */
+.web-header {
+    text-align: right;
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 808px;
+}
+
+.primary-btn {
+    width: 160px;
+    height: 64px;
+    background-color: #F15B22;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 5px;
+}
+
+.header-tittle {
+    font-size: 70px;
+    padding-right: 200px;
+    padding-top: 200px;
+    padding-bottom: 30px;
+}
+
+.header-discription {
+    padding-right: 200px;
+}
+
+.header-button {
+    padding-right: 200px;
+    padding-top: 40px;
+}
+
+.section-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.section-padding {
+    padding-top: 130px;
+}
+
+.banner {
+    height: 100vh;
+    width: 100%;
+    background-image: url('/images/banner/banner1.png');
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #070707;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+}
+/* header end */
+/* failiar start */
+.about-img {
+    position: absolute;
+    left: 206px;
+    top: 939px;
+}
+
+.section-title {
+    position: absolute;
+    left: 856px;
+    top: 160vh;
+    font-weight: 900;
+    font-family: 'Work Sans';
+}
+
+.description {
+    position: absolute;
+    left: 856px;
+    top: 1296px;
+    width: 416px;
+    font-weight: 700;
+    size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    line-height: 26px;
+
+}
+
+.list {
+    position: absolute;
+    left: 856px;
+    top: 1436px;
+    width: 416px;
+    font-weight: 700;
+    size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.list1 {
+    position: absolute;
+    left: 856px;
+    top: 1466px;
+    width: 416px;
+    font-weight: 700;
+    size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.list2 {
+    position: absolute;
+    left: 856px;
+    top: 1496px;
+    width: 416px;
+    font-weight: 700;
+    size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.list3 {
+    position: absolute;
+    left: 856px;
+    top: 1526px;
+    width: 416px;
+    font-weight: 700;
+    size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.list4 {
+    position: absolute;
+    left: 856px;
+    top: 1556px;
+    width: 416px;
+    font-weight: 700;
+    size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+#list {
+    margin-right: 7px;
+}
+/* failiar end */
+/* plan start */
+#plan {
+    margin-top: 140vh;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    padding-left: 50%;
+}
+
+.myplan {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.js {
+    padding: 50px 30px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.js img {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 315px;
+    top: 1950px;
+}
+
+.js h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    padding-top: 80px;
+
+}
+
+.js h4 {
+    color: #737272;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.web {
+    padding: 50px 30px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.web img {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 590px;
+    top: 1950px;
+}
+
+.web h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.web h4 {
+    color: #737272;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.smoke {
+    padding: 50px 30px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.smoke img {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 875px;
+    top: 1950px;
+}
+
+.smoke h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.smoke h4 {
+    color: #737272;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.ecom {
+    padding: 50px 30px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ecom img {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 1100px;
+    top: 1950px;
+}
+
+.ecom h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.ecom h4 {
+    color: #737272;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+/* plan end */
+/* positive mindset start */
+.positive {
+    width: 1140px;
+    height: 300px;
+    top: 2222.26px;
+    background: url('/images/gradient1.png'), url('/images/watch.png');
+    justify-content: center;
+    margin-left: 13.5%;
+}
+
+.mindset {
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2281.26px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #ffffff;
+}
+
+.Callme {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2399.26px;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2399.26px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+}
+/* positive mindset end */
+/* footer */
+.footer {
+    background-color: #151414;
+    display: flex;
+    margin-top: 130px;
+}
+
+.future {
+    color: #FFFFFF;
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    margin-top: 15vh;
+    margin-left: 40vh;
+}
+
+.future h1 {
+    width: 148px;
+    height: 53px;
+    left: 230px;
+    top: 2782.26px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.future h4 {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 5px;
+}
+
+.future img {
+    gap: 120px;
+}
+
+.email {
+    box-sizing: border-box;
+    position: absolute;
+    width: 325px;
+    height: 64px;
+    left: 1046px;
+    top: 2842.26px;
+    background: none;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #F3F3F3;
+}
+
+.Subscribebtn {
+    position: absolute;
+    width: 170.11px;
+    height: 64px;
+    left: 1046px;
+    top: 2922.26px;
+    background: #FFFFFF;
+    border-radius: 8px;
+
+}
+
+.Subscribebtn span {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #F15B22;
+}
+
+.subc {
+    width: 123px;
+height: 29px;
+margin-top: 21vh;
+margin-left: 39vh;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
