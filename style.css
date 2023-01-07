@@ -323,7 +323,7 @@
     width: 1140px;
     height: 300px;
     top: 2222.26px;
-    background: url('../images/'), url('./images/watch.png');
+    background: url('./images/gradient2.png'), url('./images/watch.png');
     justify-content: center;
     margin-left: 13.5%;
 }
